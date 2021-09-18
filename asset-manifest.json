@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EditText-React/static/css/main.94383130.chunk.css",
+    "main.js": "/EditText-React/static/js/main.fdd2b36b.chunk.js",
+    "main.js.map": "/EditText-React/static/js/main.fdd2b36b.chunk.js.map",
+    "runtime-main.js": "/EditText-React/static/js/runtime-main.02fcaa04.js",
+    "runtime-main.js.map": "/EditText-React/static/js/runtime-main.02fcaa04.js.map",
+    "static/js/2.7d5f6514.chunk.js": "/EditText-React/static/js/2.7d5f6514.chunk.js",
+    "static/js/2.7d5f6514.chunk.js.map": "/EditText-React/static/js/2.7d5f6514.chunk.js.map",
+    "static/js/3.cb72d334.chunk.js": "/EditText-React/static/js/3.cb72d334.chunk.js",
+    "static/js/3.cb72d334.chunk.js.map": "/EditText-React/static/js/3.cb72d334.chunk.js.map",
+    "index.html": "/EditText-React/index.html",
+    "static/css/main.94383130.chunk.css.map": "/EditText-React/static/css/main.94383130.chunk.css.map",
+    "static/js/2.7d5f6514.chunk.js.LICENSE.txt": "/EditText-React/static/js/2.7d5f6514.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02fcaa04.js",
+    "static/js/2.7d5f6514.chunk.js",
+    "static/css/main.94383130.chunk.css",
+    "static/js/main.fdd2b36b.chunk.js"
+  ]
+}
